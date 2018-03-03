@@ -15,6 +15,9 @@ Alias for executing database migrations.
 This plug-in brings a handy function:
 
 - `migrate` - Execute database migrations on development and test environments.
+- `rc` - Execute rails console
+- `rg` - Execute rails generator
+- `rs` - Execute rails server
 
 ## Install
 
